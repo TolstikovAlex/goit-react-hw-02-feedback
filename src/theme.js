@@ -52,7 +52,7 @@ export const theme = {
     normal: '1px solid',
   },
   shadows: {
-    normal: '1px 0px 1px 1px rgba(163, 156, 156, 0.6)',
+    normal: '0px 8px 2px 8px rgba(333, 556, 036, 0.3)',
     medium: '2px 1px 3px 2px rgba(104, 100, 100, 0.4)',
   },
 
